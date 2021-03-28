@@ -1,6 +1,5 @@
-This is a REST API server using flask from a video course from mr. teclado.
-It uses flask, sqlalchemy and marshmallow.
-The passwords were hashed with bcrypt for security reasons ;)
+This is a crud tutorial using flask from a Mbithe Nzomo (https://www.digitalocean.com/community/tutorials/build-a-crud-web-app-with-python-and-flask-part-one)
+It uses flask, sqlalchemy and mariadb.
 
 **Install all packages**
 
