@@ -1,0 +1,6 @@
+__pycache__/
+.vscode/
+.env/
+instance/config.py
+instance/config_test.py
+migrations/
